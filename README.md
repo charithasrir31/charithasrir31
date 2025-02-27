@@ -13,9 +13,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charithasrir31&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charithasrir31&theme=dark)
+<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charithasrir31&theme=dark)-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charithasrir31&layout=compact&theme=tokyonight)
+![Top Languags](https://github-readme-stats.vercel.app/api/top-langs/?username=charithasrir31&layout=compact&theme=tokyonight)
 
 <!--
 **charithasrir31/charithasrir31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
