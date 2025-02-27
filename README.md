@@ -5,9 +5,10 @@
 🔹 **Tech Stack:** C++ | Java | Python | HTML | CSS | Spring Boot | React.js | Node.js | MySQL | MongoDB | AWS | GitHub  
 🔹 **Currently Learning:** Advanced React & Cloud Computing  
 
-📫 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CharithaSri-blue?style=flat&logo=linkedin)]((https://www.linkedin.com/in/charithasri-ramisetti-a90370245/))  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)]((https://github.com/charithasrir31))
+### 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CharithaSri-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/charithasri-ramisetti-a90370245/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/charithasrir31)
+
 <!--
 **charithasrir31/charithasrir31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
