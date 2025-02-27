@@ -3,7 +3,7 @@
 🚀 Java & React Developer | Cloud Enthusiast | Passionate about Full-Stack Development  
 
 🔹 **Tech Stack:** C++ | Java | Python | HTML | CSS | Spring Boot | React.js | Node.js | MySQL | MongoDB | AWS | GitHub  
-🔹 **Currently Learning:** Advanced React & Cloud Computing  
+🔹 **Currently Learning:** Advanced React, Cloud Computing & in-depth of AIML
 
 ### 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CharithaSri-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/charithasri-ramisetti-a90370245/)  
